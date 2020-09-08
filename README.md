@@ -1,6 +1,6 @@
 # Flask Weather App ☀️☔️
 
-This is a Flask (Python) application that auto-detects local weather based off of user's external IP address.
+This is a Flask (Python) application that detects weather details based on city name provide by user.
 
 ### Today's Weather Forecast for City.
 

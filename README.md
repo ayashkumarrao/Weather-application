@@ -18,4 +18,6 @@ This App provides us-->
 
 Hope you like it and guide me if some changes are required.
 
-THANK YOU FOR VISIT__
+_____________THANK YOU FOR VISIT_______________
+
+             ____HAVE A GOOD DAY____
